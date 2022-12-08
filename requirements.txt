@@ -5,7 +5,7 @@ attrs==19.3.0
 beautifulsoup4==4.9.1
 bs4==0.0.1
 CacheControl==0.12.6
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 colorama==0.4.3
 configparser==5.0.0
